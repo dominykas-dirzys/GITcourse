@@ -1,2 +1,2 @@
-Alex has a cat.
+Alex has a cat and a dog.
 Pirmas failas.
